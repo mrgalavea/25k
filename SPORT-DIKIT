@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,Bein Sport 1 HD
+http://95.170.215.101:80/hls/m3u8/Bein-Sport-HD1.m3u8
+#EXTINF:-1,Bein Sport 2 HD
+http://95.170.215.106:80/hls/m3u8/Bein-Sport-HD2.m3u8
+#EXTINF:-1,Bein Sport 3 HD
+http://95.170.215.106:80/hls/m3u8/Bein-Sport-HD3.m3u8
+#EXTINF:-1,Bein Sport 4 HD
+http://95.170.215.101:80/hls/m3u8/Bein-Sport-HD4.m3u8
+#EXTINF:-1,Bein Sport 5 HD
+http://95.170.215.101:80/hls/m3u8/Bein-Sport-HD5.m3u8
+#EXTINF:-1,ANIPLUS
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:-1,ANIPLUS (ID)
+http://45.126.83.51/dr9445/h/h02/01.m3u8
+#EXTINF:-1,ANIMAX
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
+#EXTINF:-1,Useesport 
+https://dl.dropbox.com/s/i2af1p436yzvwo2/foxs1.m3u8?dl=0
+#EXTINF:-1,RCTI HD 
+http://id6.indostreamingtv.com/live/rcti/index.m3u8
+#EXTINF:-1,Bein sport 
+http://live1.livetvindia.co.in:8000/get.php?username=wsspassphp&password=234654d54f6d5&type=m3u
