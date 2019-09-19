@@ -1,0 +1,145 @@
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_aniplus_big1.png" group-title="KIDS", Aniplus
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animaxlogo-20160701.png/180px-Animaxlogo-20160701.png" group-title="",Animax
+http://210.210.155.35:80/dr9445/h/h144/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animaxlogo-20160701.png/180px-Animaxlogo-20160701.png" group-title="",Animax
+http://210.210.155.35:80/dr9445/h/h144/index2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/220px-Aniplus_Asia_Logo.png" group-title="",Aniplus
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",My Kids
+http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.vod-logo.net/photos/6a935ccbf26bb9180f9a06f2741d24c0.JPG" group-title="",Disney Junior Indonesia
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Anibox
+http://122.129.115.21:1935/edgedol/_definst_/tao113/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="ANIMAX ID" tvg-name="" tvg-logo="https://special.animax-asia.com/oo-kun/displays/images/video_wascot.gif" group-title="Teguh-Kids",ANIMAX
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_aniplus_big1.png" group-title="Teguh-Kids",ANIPLUS
+http://45.126.83.51/dr9445/h/h02/01.m3u8 
+#EXTINF:-1 group-title="Teguh-Kids",BABY TV
+http://iliketot.dyndns.tv:80/7773f3cef0334a28ad248552ea63d9e7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6NDU6MzEgUE0maGFzaF92YWx1ZT00ZlpSSlNNZERpZW16MWMrQmlVSjJnPT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkwNXx1cGxheXwxNTMyMzUzNTMxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:-1 group-title="Teguh-Kids",Disney Junior
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 tvg-logo="https://special.animax-asia.com/oo-kun/displays/images/video_wascot.gif" group-title="Teguh-Kids", Star Kids
+http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
+#EXTINF:-1 group-title="KIDS",AniPlus
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:-1 group-title="KIDS",AniPlus
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:-1 group-title="KIDS",Animax
+http://bit.ly/2UJS2Ak
+#EXTINF:-1 group-title="KIDS",Aniplus
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRxBliGadwxvZMcACLXv2r8m19gbM3ENH372-LrWSz2ILLLswx0" group-title="KIDS",AniPlus
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animaxlogo-20160701.png/180px-Animaxlogo-20160701.png" group-title="KIDS",ANIMAX
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS", TR CARTOON NETWORK
+http://iptv-line.com:6969/master.280/change3kslpaks/17371
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS", CARTOONITO
+http://iptv-line.com:6969/master.280/change3kslpaks/7144
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Info",  ANIMAL PLANET
+http://80.80.160.168/live/1/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Info",  Discovery ID
+http://80.80.160.168/live/5/500000/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Info",  NAT GEO
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8?IWAK-PEYEK.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Info",  NAT GEO CHANNEL
+http://iliketot.dyndns.tv/29fb241f985c468e8e6ffa8942b00a69.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDE4IDY6NTY6MTkgUE0maGFzaF92YWx1ZT1pV21sdUNEVXZpZ3I1bitwSEUrRDhBPT0mdmFsaWRtaW51dGVzPTImaWQ9Q2hveXw4MDN8aXB0dmhlcm98MTUyOTk1Mjk3OXwxMTkuNzYuMTUyLjM=
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Info",  NAT GEO PEOPLE
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8?IWAK-PEYEK.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Info",  NAT GEO PEOPLE
+http://iliketot.dyndns.tv/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMzoxMjo0MiBBTSZoYXNoX3ZhbHVlPWV2blpob000aWtYYmtRZCtSNWl4WWc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDgwNHx1cGxheXwxNTI4MjU0NzYyfDIwMi4yOC40MS4xNDQ=
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Info",  NAT GEO PEOPLE HD
+http://iliketot.dyndns.tv/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Info",  NAT GEO WILD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8?IWAK-PEYEK.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Info",  DISCOVERY HD
+http://80.80.160.168/live/8/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Info",  DISCOVERY SCIENCE HD
+http://80.80.160.168/live/9/2500000/live.m3u8
+#EXTINF:-1 group-title="KIDS",DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="",CBS
+http://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Religious",CGNTV
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/nz/DisneyJunior.nz.png" group-title="",Disney Jr ???
+http://122.129.115.21:1935/edgedol/_definst_/tao112/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="",EBS
+http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8b/Channels_ebs1.png" group-title="",EBS 1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="",EBS 2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="",EBS Kids
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="",EBS+1
+http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",EBS+2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",EBSe
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ESB1
+http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",ESB2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/B6vXfKu.png" group-title="",ETN  SD
+http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/gb/FOX.uk.png" group-title="",FOX  ???
+http://122.129.115.21:1935/edgedol/_definst_/tao106/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="",K+
+http://210.210.155.35/uq2663/h/h08/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",KBS1
+http://122.129.115.21:1935/edgedol/_definst_/tao107/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",KBS2
+http://122.129.115.21:1935/edgedol/_definst_/tao108/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Korea:KBS LIVE
+http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/chunklist.m3u8?wowzasessionid=179252988
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",M Net
+http://122.129.115.21:1935/edgedol/_definst_/tao101/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.imbc.com/commons/2018/image/main/mbc-logo.png" group-title="",MBC
+http://122.129.115.21:1935/edgedol/_definst_/tao122/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MBN
+http://122.129.115.21:1935/edgedol/_definst_/tao135/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Olive
+http://122.129.115.21:1935/edgedol/_definst_/tao109/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1200px-Seoul_Broadcasting_System_logo.svg.png" group-title="",SBS
+http://122.129.115.21:1935/edgedol/_definst_/tao116/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SBS Plus
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SBS Star
+https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Toonverse
+http://122.129.115.21:1935/edgedol/_definst_/tao130/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TV Chosun
+http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",YTN ???
+http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/chunklist_b732000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",?«-CBS
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",?? A
+http://122.129.115.21:1935/edgedol/_definst_/tao134/playlist.m3u8
