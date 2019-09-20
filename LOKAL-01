@@ -1,0 +1,268 @@
+#EXTM3U
+
+~ Indonesia TV ~
+
+
+#EXTINF:-1,ADiTV
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+
+#EXTINF:-1,Bali TV
+http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,BeritaSatu World
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+
+#EXTINF:-1,CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1,Dangdut
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+
+#EXTINF:-1,Global TV
+http://202.80.222.182:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,Home & Living
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
+
+#EXTINF:-1,Indosiar
+http://202.80.222.182/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,iNews TV
+http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,J'go
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8?fluxustv.m3u8
+
+#EXTINF:-1,Jakarta Globe (English)
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+
+#EXTINF:-1,JakTV
+http://202.80.222.182:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,Jawa Pos TV
+http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,Karaoke Channel
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?fluxustv.m3u8
+
+#EXTINF:-1,Kompas
+http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1,MNC TV
+http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,Net TV
+http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT219782019062322524313983108
+
+#EXTINF:-1,Rajawali TV (Opt-1)
+http://202.80.222.171:80/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT2198020181031055334464619
+
+#EXTINF:-1,Rajawali TV (Opt-2)
+http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT219992019062322543114287379
+
+#EXTINF:-1,RCTI
+http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,SCTV
+http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,The Indonesia Channel
+http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8?fluxustv.m3u8
+
+#EXTINF:-1,Trans 7
+http://202.80.222.182/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,Trans TV (Opt-1)
+http://202.80.222.182/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,Trans TV (Opt-2)
+http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT2931201906232251491158010
+
+#EXTINF:-1,TV One
+http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,TVRI (Opt-1)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+
+#EXTINF:-1,TVRI (Opt-2)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
+
+#EXTM3U
+ 
+#EXTINF:0, StarPlusHD
+http://jprdigitalott.com/media/StarPlusHD.mpd
+   
+#EXTINF:0, andtvhd
+http://pockettv.xyz/api/zee.m3u8?c=andtvhd
+ 
+#EXTINF:0,zeetvsd  
+http://pockettv.xyz/api/zee.m3u8?c=zeetvsd
+   
+#EXTINF:0, zeetvhd
+http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
+   
+#EXTINF:0, ColorsHD
+http://jprdigitalott.com/media/ColorsHD.mpd
+   
+#EXTINF:0, SonyMax
+http://jprdigitalott.com:80/media/SonyMaxHD.mpd
+   
+#EXTINF:0, zcinemasd   
+http://pockettv.xyz/api/zee.m3u8?c=zcinemasd
+ 
+#EXTINF:0, zcinemaAhd  
+http://pockettv.xyz/api/zee.m3u8?c=zcinemahd
+ 
+#EXTINF:0, andpicssd   
+http://pockettv.xyz/api/zee.m3u8?c=andpicssd
+ 
+#EXTINF:0, andpicssd   
+http://pockettv.xyz/api/zee.m3u8?c= andpicssd  
+   
+ 
+#EXTINF:0, StarGoldHD
+http://jprdigitalott.com/media/StarGoldHD.mpd
+   
+ 
+#EXTINF:0, StarGoldSelectHD
+http://jprdigitalott.com/media/StarGoldSelectHD.mpd
+   
+#EXTINF:0, Zee bollywood
+http://pockettv.xyz/api/zee.m3u8?c=classic
+ 
+#EXTINF:0, bigmagic
+http://pockettv.xyz/api/zee.m3u8?c=bigmagic
+   
+#EXTINF:0, Hungama.
+http://jprdigitalott.com/media/Hungama.mpd
+   
+#EXTINF:0, DisneyXD
+http://jprdigitalott.com/media/DisneyXD.mpd
+   
+#EXTINF:0, StarMoviesHD
+http://jprdigitalott.com/media/StarMoviesHD.mpd
+   
+#EXTINF:0, HBOHD
+http://jprdigitalott.com/media/HBOHD.mpd
+   
+#EXTINF:0, andprivehd
+http://pockettv.xyz/api/zee.m3u8?c=andprivehd
+   
+#EXTINF:0, andflix
+http://pockettv.xyz/api/zee.m3u8?c=andflix
+   
+#EXTINF:0, andflixhd   
+http://pockettv.xyz/api/zee.m3u8?c=andflixhd
+ 
+#EXTINF:0, ColorsInfinityHD
+http://jprdigitalott.com/media/ColorsInfinityHD.mpd
+   
+ 
+#EXTINF:0, StarWorldPremiereHD
+http://jprdigitalott.com/media/StarWorldPremiereHD.mpd
+   
+ 
+#EXTINF:0, StarWorldHD
+http://jprdigitalott.com/media/StarWorldHD.mpd
+       
+ 
+#EXTINF:0, Bein_Series2
+http://109.236.92.216:9090/Bein_Series2/mpegts
+   
+ 
+#EXTINF:0, Bein_Series1
+http://109.236.92.216:9090/Bein_Series1/mpegts
+   
+ 
+ 
+#EXTINF:0, zeecafehd   
+http://pockettv.xyz/api/zee.m3u8?c=zeecafehd
+ 
+ 
+#EXTINF:0, StarSports1HD
+http://jprdigitalott.com:80/media/StarSports1HD.mpd
+   
+ 
+#EXTINF:0, StarSports1HindiHD
+http://jprdigitalott.com/media/StarSports1HindiHD.mpd
+   
+ 
+#EXTINF:0, StarSportsSelect1HD
+http://jprdigitalott.com:80/media/StarSportsSelect1HD.mpd
+   
+ 
+#EXTINF:0, StarSports2HD
+http://jprdigitalott.com:80/media/StarSports2HD.mpd
+   
+ 
+#EXTINF:0, 9xo
+http://pockettv.xyz/api/zee.m3u8?c=9xo
+   
+ 
+#EXTINF:0, Dsports
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8?jct=duCwWXNetLvniRQh4tUb4Q&pxe=1562073622&st=2rABpyTLSDzkoYSlKcWJhg
+   
+ 
+#EXTINF:0, zing
+http://pockettv.xyz/api/zee.m3u8?c=zing
+   
+ 
+#EXTINF:0, 9xm 
+http://pockettv.xyz/api/zee.m3u8?c=9xm
+   
+ 
+ 
+#EXTINF:0, etc
+http://pockettv.xyz/api/zee.m3u8?c=etc
+   
+ 
+#EXTINF:0, 9xjalwa
+http://pockettv.xyz/api/zee.m3u8?c=9xjalwa
+   
+ 
+#EXTINF:0, star_movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8?sd=10&rebase=on
+   
+ 
+#EXTINF:0, star_world
+http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8?sd=10&rebase=on
+   
+ 
+#EXTINF:0,HBO
+http://218.202.220.2:5000/nn_live.ts?id=HBO
+   
+ 
+#EXTINF:0, playmax3
+http://stream.tapmad.com:1935/pitvlive2/playmax3/playlist.m3u8?
+       
+ 
+#EXTINF:0, nazrana
+http://linear08hun-lh.akamaihd.net:80/i/nazrana_1@673935/index_2128_av-p.m3u8?sd=10&rebase=on
+ 
+ 
+#EXTINF:0, bollywood-classic
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
+   
+ 
+#EXTINF:0, Bflix-Movies
+http://130.185.150.79:1935/trunk/Bflix-Movies/playlist.m3u8
+   
+ 
+#EXTINF:0, duck
+http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
+       
+ 
+#EXTINF:0,FOOD FOOD
+https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
+   
+ 
+#EXTINF:0, nat_geo
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+   
+ 
+ 
+#EXTINF:0, nat_geo_wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
