@@ -669,45 +669,6 @@ http://stream.rs.co.th/sbd-hi/index.m3u8
 http://live.thairath.co.th/trTV2/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTPS9WGBWkH5HhywGZ9-L7m21-VNpbUzDRMb5cs-OGXd75f_F4N" group-title="JAPAN",  Family Gekijyo
-http://192.240.127.34:1935/live/cs11.stream/media_1254.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.history.com/.image/cs_srgb%2Cq_auto:good/MTU1MTMxNjMyMzU1OTI3NTg1/logo-nav.png" group-title="JAPAN",  History
-http://192.240.127.34:1935/live/cs14.stream/media_1254.m3u8
-
-#EXTINF:-1 tvg-logo="http://204.197.253.93/pt-data/uploads/images/logo/eisei_gekijo.jpg" group-title="JAPAN",  Eisei Gekijo
-http://192.240.127.34:1935/live/cs18.stream/media_1254.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ1Iof_kWHDXjl4BfFSLhYy6O3HMnggjmAC1hhnhSYoD9QgTwuW" group-title="JAPAN",  Nihon Eiga TV
-http://192.240.127.34:1935/live/cs19.stream/media_1254.m3u8
-
-#EXTINF:-1 tvg-logo="http://204.197.253.93/pt-data/uploads/images/logo/wowow_live.jpg" group-title="JAPAN",  Cinefil WOWOW
-http://192.240.127.34:1935/live/cs27.stream/media_1254.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTyFkvIj0O9ZXAAj7xpjATTtlXYuM2G85iU-7CqH-fXIVM3GY_" group-title="ADULT 18+",  HOT TEEN
-http://live.redtraffic.xyz/teen.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTyFkvIj0O9ZXAAj7xpjATTtlXYuM2G85iU-7CqH-fXIVM3GY_" group-title="ADULT 18+",  HOT LATINA
-http://live.redtraffic.xyz:80/latina.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTyFkvIj0O9ZXAAj7xpjATTtlXYuM2G85iU-7CqH-fXIVM3GY_" group-title="ADULT 18+",  HOT MILF
-http://live.redtraffic.xyz/milf.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTyFkvIj0O9ZXAAj7xpjATTtlXYuM2G85iU-7CqH-fXIVM3GY_" group-title="ADULT 18+",  HOT POV
-http://live.redtraffic.xyz/pov.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTyFkvIj0O9ZXAAj7xpjATTtlXYuM2G85iU-7CqH-fXIVM3GY_" group-title="ADULT 18+",  HOT PORNSTAR
-http://live.redtraffic.xyz/pornstar.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTyFkvIj0O9ZXAAj7xpjATTtlXYuM2G85iU-7CqH-fXIVM3GY_" group-title="ADULT 18+",  HOT BIGTITS
-http://live.redtraffic.xyz/bigtits.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTyFkvIj0O9ZXAAj7xpjATTtlXYuM2G85iU-7CqH-fXIVM3GY_" group-title="ADULT 18+",  HOT BIGDICK
-http://live.redtraffic.xyz/bigdick.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTyFkvIj0O9ZXAAj7xpjATTtlXYuM2G85iU-7CqH-fXIVM3GY_" group-title="ADULT 18+",  HOT BLOWJOB
-http://live.redtraffic.xyz/blowjob.m3u8
-
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-pyXe2z1Er3A/XE7VdxsachI/AAAAAAAAAGQ/PLwjKh2EIT8bzmqNXk9shmZk-bzTJDNUwCLcBGAs/s1600/SocialDarkNet%2B-%2BMunafik%2B1%2B%25282016%2529%2Bbluray%2BSubtitle%2BIndonesia.jpg" group-title="VOD MOVIES",  MUNAFIK
 http://cdn0-a.production.vidio.static6.com/uploads/1528383/ets-2-20traimuna-9bbb-b1600.mp4.m3u8
 
