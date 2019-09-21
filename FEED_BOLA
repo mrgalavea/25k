@@ -1,0 +1,62 @@
+                          -EPL BOLA ZALTV INDONESIA-
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lefsmyes.jpg" group-title="ZalTV-EPL", EPL LIVE 1
+http://23.237.22.82:8086/udp/127.0.0.1:56016
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lefmsyes.jpg" group-title="ZalTV-EPL", EPL LIVE 2
+https://cdx.dailysport.pw/1/1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lefsmyes.jpg" group-title="ZalTV-EPL", EPL LIVE 3
+https://cdx.dailysport.pw/3/3.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lesfmyes.jpg" group-title="ZalTV-EPL", EPL LIVE 4
+https://cdx.dailysport.pw/4/4.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lefsmyes.jpg" group-title="ZalTV-EPL", EPL LIVE 5
+https://cdx.dailysport.pw/5/5.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lefsmyes.jpg" group-title="ZalTV-EPL", SERIA A ITALIA
+http://cdn60.youpit.site:80/live/yp4/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lefsmyes.jpg" group-title="ZalTV-EPL", BUNDES LIGA
+http://cdn60.youpit.site:80/live/yp7/chunks.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.skynetdth.com/images/channal_logo/Sports-HD.jpg" group-title="ZalTV-EPL",Skynet Sports HD
+http://190.2.154.164/TV0673
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.skynetdth.com/images/channal_logo/Sports-HD.jpg" group-title="ZalTV-EPL",Skynet Sports 1
+http://190.2.154.164/TV0660
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.skynetdth.com/images/channal_logo/Sports-HD.jpg" group-title="ZZalTV-EPL",Skynet Sports 2
+http://190.2.154.164/TV0661
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.skynetdth.com/images/channal_logo/Sports-HD.jpg" group-title="ZalTV-EPL",Skynet Sports 3
+http://190.2.154.164/TV0662
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.skynetdth.com/images/channal_logo/Sports-HD.jpg" group-title="ZalTV-EPL",Skynet Sports 4
+http://190.2.154.164/TV0663
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.skynetdth.com/images/channal_logo/Sports-HD.jpg" group-title="ZalTV-EPL",Skynet Sports 5
+http://190.2.154.164/TV0664
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.skynetdth.com/images/channal_logo/Sports-HD.jpg" group-title="ZalTV-EPL",Skynet Sports 6
+http://190.2.154.164/TV0665
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lefmyes.jpg" group-title="ZalTV-EPL",Thairath
+http://live.thairath.co.th/trtv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lefmyes.jpg" group-title="ZalTV-EPL",BEIN SPORT 1 HD
+http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lefmyes.jpg" group-title="ZalTV-EPL",BEIN SPORT 2 HD
+http://95.170.215.106/hls/m3u8/Bein-Sport-HD2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lefmyes.jpg" group-title="ZalTV-EPL",BEIN SPORT 3 HD
+http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lefmyes.jpg" group-title="ZalTV-EPL",BEIN SPORT 4 HD
+http://95.170.215.101/hls/m3u8/Bein-Sport-HD4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lefmyes.jpg" group-title="ZZalTV-EPL",BEIN SPORT 5 HD
+http://95.170.215.101/hls/m3u8/Bein-Sport-HD5.m3u8
+#EXTINF:1 GROUP-TITLE=“ZalTV-EPL”, AD SPORT 1
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?VIPIPTV
+#EXTINF:1 GROUP-TITLE=“ZZalTV-EPL”, AD SPORT 2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?VIPIPTV
+#EXTINF:-1 group-title="ZZalTV-EPLL",ADSPORT1
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8?v=
+#EXTINF:-1 group-title="ZalTV-EPL",ADSPORT2
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8?v=
+#EXTINF:-1 tvg-id="FOXSports1.my" tvg-logo="https://i.imgur.com/6f2OSif.png" group-title="ZalTV-EPL",Fox Sport 1
+http://190.2.154.164/TV0667
+#EXTINF:-1 tvg-id="FOXSports2.my" tvg-logo="https://i.imgur.com/n3ieiWB.png" group-title="ZalTV-EPL",Fox Sport 2
+http://190.2.154.164/TV0668
+#EXTINF:-1 tvg-id="FOXSports3.my" tvg-logo="https://i.imgur.com/VouoBXj.png" group-title="ZalTV-EPL",Fox Sport 3
+http://190.2.154.164/TV0669
